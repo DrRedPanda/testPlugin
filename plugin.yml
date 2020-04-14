@@ -1,5 +1,8 @@
-name: SpigotTestPlugin
 main: com.replantedtech.plugins.SpigotTestPlugin
-version: 1.0
-api-version: 1.15.2
+name: SpigotTestPlugin
+version: 2.3
+api-version: 1.15
 commands:
+   kit:
+      description: Get a Sword
+      usage: /<command>
